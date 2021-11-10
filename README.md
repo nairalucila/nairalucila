@@ -1,7 +1,7 @@
 ### Hi everybody 👋
 
 const experience = {  
-technology: " :grin: I’m currently working with Angular +10 and Nodejs", 
+technology: " :grin: I’m currently working with Angular +10 and Nodejs",   
 learning: " :sparkling_heart: I’m currently learning Node js and deepening my knowledge in Angular",  
 englishLevel: "intermediate",  
 ln: " :point_right: linkedin.com/nairacoppari",  
